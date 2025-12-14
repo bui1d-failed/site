@@ -1,7 +1,7 @@
 ---
 title: Abusing Remote Events to Crash Roblox Servers
 published: 2025-12-15
-description: "A simple exploit can cause crashes in most games."
+description: 'A simple exploit can cause crashes in most games.'
 tags: [Game Hacking, Roblox Exploits]
 category: Game Hacking
 draft: false
