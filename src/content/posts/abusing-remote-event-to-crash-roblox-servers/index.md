@@ -16,7 +16,7 @@ draft: false
 
 ![](./remote-spy-spawn-car.png)
 
-#### Here, one argument is the car name. We can quickly press 'Run Code' and check the network stats.
+#### In this screenshot, argument one is the car name. We can quickly press 'Run Code' and check the network stats.
 #### If it does not reduce your in-game FPS to zero and causes the recv value to rise significantly, it may be exploitable.
 
 ### 2. Coding exploit code:
