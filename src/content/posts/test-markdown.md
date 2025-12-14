@@ -2,7 +2,7 @@
 title: Among Us Game Hacking Guide
 published: 2025-12-14
 description: A simple guide to showing you how to implement some features in Among Us
-tags: [Game Hacking] [Reverse Engine]
+tags: [Game Hacking, Reverse Engine]
 category: Game Hacking
 draft: false
 ---
