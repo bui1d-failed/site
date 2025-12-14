@@ -7,7 +7,6 @@ category: Game Hacking
 draft: false
 ---
 
-# Among Us Game Hacking Guide
 #### Tools: MelonLoader (Mod loader), Untiy Explorer (Mod)
 
 ### Speed hack:
@@ -16,7 +15,7 @@ scene -> localPlayerName(object) -> Il2Cpp.PlayerPhysics(Components) -> PlayerPh
 ```
 
 ### Sabotage without impostor role:
-you need to manually open map at least once, else you would not see the ShipMap(Clone) object.
+#### you must manually open the map at least once, otherwise you will not see the ShipMap(Clone) object.
 ```
 scene -> Main Camera(object) -> Hud(object) -> ShipMap(Clone) -> InfectedOverlay(object).Activate = True
 ```
