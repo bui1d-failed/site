@@ -39,6 +39,7 @@ local arguments = {
 for i = 1, 30 do -- create 30 heartbeat connections
     runservice.Heartbeat:Connect(function() -- sending event per frame
         eventName:FireServer(unpack(arguments)) -- FireServer or InvokeServer (in simple spy, if remoteevent is flagged as blue, use :InvokeServer(arguments))
+        --eventName:FireServer() -- if the event has no arguments
     end)
 end
 ```
